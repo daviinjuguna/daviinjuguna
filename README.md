@@ -1,6 +1,7 @@
-### Hi there 👋
+### Mobile Devs 👋
 
 [![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=daviinjuguna)](https://github.com/anuraghazra/github-readme-stats)
+![Davii's github stats](https://github-readme-stats.vercel.app/api?username=daviinjuguna&count_private=false)
 
 <!--
 **daviinjuguna/daviinjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
